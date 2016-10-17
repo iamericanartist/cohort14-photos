@@ -1,7 +1,6 @@
-# cohort14-photos
+# The :dew:hort
 Cohort 14 / Headshots and Class photos  
 
-## The :dew:hort
 ![Cohort 14 Class Photo](/groupphotos/2016_09_20_NSS_Cohort_14_Group_0030_T.jpg?raw=true "Cohort 14 Class Photo")
 ***
 
@@ -57,3 +56,6 @@ Cohort 14 / Headshots and Class photos
 <img src="/individualphotos/2016_09_20_NSS_Cohort_14_0961_T.jpg" height="150">
 <img src="/individualphotos/2016_09_20_NSS_Cohort_14_0980_T.jpg" height="150">
 <img src="/individualphotos/2016_09_20_NSS_Cohort_14_0999_T.jpg" height="150>"
+
+***
+If you guys would like to add other photos up on here, just make a pull request and put them in the **other** folder!
