@@ -59,4 +59,4 @@ Cohort 14 / Headshots and Class photos
 
 ***
 #### Add More!
-If ya'll would like to add other photos up on here, just make a pull request and put them in the **other** folder! Be sure to think "would I want my mom/grandma/boss to see these" when you're adding stuff! KEEP IT CLEAN :dew:ds!
+If ya'll would like to add other photos up on here, just make a pull request and put them in the **other** folder! Be sure to think "_would I want my mom/grandma/boss to see these?_" when you're adding stuff! KEEP IT CLEAN :dew:ds!
