@@ -57,5 +57,8 @@ Cohort 14 / Headshots and Class photos
 <img src="/individualphotos/2016_09_20_NSS_Cohort_14_0980_T.jpg" height="150">
 <img src="/individualphotos/2016_09_20_NSS_Cohort_14_0999_T.jpg" height="150>"
 
+
 ***
+#### Add More!
 If you guys would like to add other photos up on here, just make a pull request and put them in the **other** folder!
+
